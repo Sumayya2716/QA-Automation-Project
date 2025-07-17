@@ -28,14 +28,7 @@
       <version>7.11.0</version>
       <scope>test</scope>
     </dependency>
-	
-	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-	<dependency>
-    <groupId>org.junit.jupiter</groupId>
-    <artifactId>junit-jupiter-api</artifactId>
-    <version>5.13.0-RC1</version>
-    <scope>test</scope>
-</dependency>
+    
 
     <!-- Hamcrest matchers for assertions -->
     <dependency>
